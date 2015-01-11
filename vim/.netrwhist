@@ -1,6 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/Users/lihaiming/myword/site/zuzuche/run/data/include'
-let g:netrw_dirhist_2='/Users/lihaiming/myword/site/zuzuche/run/data/Other'
-let g:netrw_dirhist_3='/Users/lihaiming/myword/site/zuzuche/run/data/__admin'
-let g:netrw_dirhist_4='/Users/lihaiming/myword/site'
