@@ -1,0 +1,4 @@
+let g:current_path = $HOME . "/{?}"  "" 当前目录
+let g:tagsfile = current_path . "/{?}" "" 存放ctags目录
+let g:project_path = current_path . "/{?}" ""项目目录
+let g:LookupFile_TagExpr =  "'". tagsfile ."'"  ""looupfile  tags file 位置
